@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ming Li"
 title_separator          : "-"
 name                     :
-description              : &description "personal description"
+description              :
 url                      : https://mitming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mitming/mitming.github.io"
