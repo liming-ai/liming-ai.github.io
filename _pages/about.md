@@ -9,6 +9,18 @@ redirect_from:
 ---
 
 # About Me
+**I will join the University of Central Florida as a CS PhD, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html)**
+
 I am currently a second year master student in Department of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/). My supervisors are [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/) and [Jie Li](https://m0re.fun/). Prior that, I received the B.E. degree in Software Engineering from [Hainan University](http://en.hainanu.edu.cn/) in 2020, advised by [Chunyang Ye](https://scholar.google.com/citations?user=EA6Er_MAAAAJ&hl=zh-CN&oi=ao)
 
-My current research interests are focused on long-tail learning and self-supervised learning, I often use [Notion](https://www.notion.so) to record my [paper reading notes](https://polar-saltopus-822.notion.site/Computer-Vision-256219c6302b40d7bfacb7e297179bd7) (mostly in chinese) and share them publicly, and I have also created a [slide](https://docs.google.com/presentation/d/1izC36iNUHTiEeokQ5lk6B5Fya0Pyn2YNxUw0PEbMlK8/edit?usp=sharing) so that you can learn about the methods and progress of self-supervised learning in computer vision in the last few years (this slide will continue to be updated).
+# Publications
+Jie Qin, Jie Wu, **Ming Li**, Xuefeng Xiao, Min Zheng, Xingang Wang. Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation, ECCV 2022. [arXiv](https://arxiv.org/abs/2208.10169), [code](https://github.com/JayQine/MGD-SSSS)
+
+
+**Ming Li**, Jie Wu, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation. Tech Report. [arXiv](https://arxiv.org/abs/2206.10845)
+
+
+
+# Awards
+* Championship of [Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/) on CVPR 2022 workshop.
+* National Inspirational Scholarship. 2017 & 2018.
