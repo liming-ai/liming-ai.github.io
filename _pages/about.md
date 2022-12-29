@@ -23,4 +23,4 @@ I am currently a second year master student in Department of Computer Science an
 
 # Awards
 * Championship of [CVPR2022 AVA Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/).
-* National Inspirational Scholarship. 2017 & 2018.
+* China National Inspirational Scholarship. 2017 & 2018.
