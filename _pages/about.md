@@ -18,7 +18,7 @@ I am currently a second year master student in Department of Computer Science an
 # Publications
 * Jie Qi\*, Jie Wu\*, **Ming Li**, Xuefeng Xiao, Min Zheng, Xingang Wang. Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation, ECCV 2022. [arXiv](https://arxiv.org/abs/2208.10169), [code](https://github.com/JayQine/MGD-SSSS)
 
-* **Ming Li**\*, Jie Wu\*, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation. Tech Report. [arXiv](https://arxiv.org/abs/2206.10845)
+* **Ming Li**\*, Jie Wu\*, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation. Tech Report 2022. [arXiv](https://arxiv.org/abs/2206.10845)
 
 
 # Awards
