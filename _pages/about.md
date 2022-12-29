@@ -22,6 +22,6 @@ I am currently a second year master student in Department of Computer Science an
 
 
 # Awards
-* ORCGS Doctoral Fellowship, the University of Central Florida. 2023
+* ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
 * Championship of [CVPR2022 AVA Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/).
 * China National Inspirational Scholarship. 2017 & 2018.
