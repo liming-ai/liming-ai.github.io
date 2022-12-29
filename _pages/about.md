@@ -13,7 +13,7 @@ redirect_from:
 
 I am lucky to conduct research at ByteDance under the guidance of [Jie Wu](https://wujie1010.github.io/).
 
-I am currently a second year master student in Department of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/). My supervisors are [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/) and [Dr. Jie Li](https://m0re.fun/). Prior that, I received the B.E. degree in Software Engineering from [Hainan University](http://en.hainanu.edu.cn/) in 2020, advised by [Prof. Chunyang Ye](https://scholar.google.com/citations?user=EA6Er_MAAAAJ&hl=zh-CN&oi=ao).
+I am currently a third year master student in Department of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/). My supervisors are [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/) and [Dr. Jie Li](https://m0re.fun/). Prior that, I received the B.E. degree in Software Engineering from [Hainan University](http://en.hainanu.edu.cn/) in 2020, advised by [Prof. Chunyang Ye](https://scholar.google.com/citations?user=EA6Er_MAAAAJ&hl=zh-CN&oi=ao).
 
 # Publications
 * Jie Qi\*, Jie Wu\*, **Ming Li**, Xuefeng Xiao, Min Zheng, Xingang Wang. Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation, ECCV 2022. [arXiv](https://arxiv.org/abs/2208.10169), [code](https://github.com/JayQine/MGD-SSSS)
