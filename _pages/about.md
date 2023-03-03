@@ -13,7 +13,7 @@ redirect_from:
 
 Now I am a research intern at ByteDance under the guidance of [Jie Wu](https://wujie1010.github.io/).
 
-I am currently a third year master student at Xiamen University. My supervisors are [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/) and [Dr. Jie Li](https://m0re.fun/). Prior that, I received the B.E. degree in Software Engineering from Hainan University in 2020, advised by [Prof. Chunyang Ye](https://scholar.google.com/citations?user=EA6Er_MAAAAJ&hl=zh-CN&oi=ao).
+I am currently a third year master student in computer science at Xiamen University. My supervisors are [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/) and [Dr. Jie Li](https://m0re.fun/). Prior that, I received the B.E. degree in software engineering from Hainan University in 2020, advised by [Prof. Chunyang Ye](https://scholar.google.com/citations?user=EA6Er_MAAAAJ&hl=zh-CN&oi=ao).
 
 # Publications
 * *Jie Qi\*, Jie Wu\*, Pengxiang Yan, <u>Ming Li</u>, Yuxi Ren, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang*. **FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation**, CVPR 2023.
