@@ -24,6 +24,7 @@ I am currently a third year master student in computer science at Xiamen Univers
 
 
 # Awards
+* Championship of [CVPR2023 Long-form Video Understanding and Generation Challenge (Track 3)](https://sites.google.com/view/loveucvpr23/track3).
 * ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
 * Championship of [CVPR2022 AVA Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/).
 * Excellent Graduation Thesis of Hainan University. 2020.
