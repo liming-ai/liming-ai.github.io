@@ -9,20 +9,27 @@ redirect_from:
 ---
 
 # About Me
-**I am an incoming CS PhD at the University of Central Florida, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html)**.
+**I am a CS PhD at the University of Central Florida, supervised by [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html)**.
 
 Now I am a research intern at ByteDance under the guidance of [Jie Wu](https://wujie1010.github.io/). Previously, I received the M.S. degree in Computer Science from Xiamen University in 2023, and B.E. degree in software engineering from Hainan University in 2020.
 
-# Publications
-* *<u>Ming Li</u>\*, Jie Wu\*, Xionghui Wang, Chen Chen, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan*. **AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**, ICCV 2023. [Page](https://liming-ai.github.io/AlignDet/)
+# Publications <font size=3>(* denotes equal contribution)</font>
+* **AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.**<br>
+**<font size=3>Ming Li*</font>**, <font color="#666666"  size=3> Jie Wu*, Xionghui Wang, Chen Chen, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan</font>.<br>
+*International Conference on Computer Vision (ICCV) 2023.* [<font color="#86583D"> [Project Page] </font>](https://liming-ai.github.io/AlignDet/)
 
-* *Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, <u>Ming Li</u>, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen*.  **First Place Solution to the CVPR'2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment**, Tech Report on CVPR 2023 Workshop. [arXiv](https://arxiv.org/abs/2306.13380)
+* **First Place Solution to the CVPR'2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment.**<br> <font color="#666666" size=3> Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang,</font> **<font size=3> Ming Li</font>**<font color="#666666" size=3>, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen</font>.<br>*Tech Report on CVPR 2023 Workshop.* [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2306.13380) [<font color="#86583D"> [code] </font>](https://github.com/tomchen-ctj/CVPR23-LOVEU-AQTC)
 
-* *Jie Qi\*, Jie Wu\*, Pengxiang Yan, <u>Ming Li</u>, Yuxi Ren, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang*. **FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation**, CVPR 2023. [arXiv](https://arxiv.org/abs/2303.17225), [code](https://github.com/bytedance/FreeSeg)
 
-* *Jie Qi\*, Jie Wu\*, <u>Ming Li</u>, Xuefeng Xiao, Min Zheng, Xingang Wang*. **Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation**, ECCV 2022. [arXiv](https://arxiv.org/abs/2208.10169), [code](https://github.com/JayQine/MGD-SSSS)
+* **FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation.**<br> <font color="#666666" size=3>Jie Qi*, Jie Wu*, Pengxiang Yan, </font>**<font size=3>Ming Li</font>**<font color="#666666" size=3>, Yuxi Ren, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang</font>.<br>
+*Conference on Computer Vision and Pattern Recognition (CVPR) 2023.* [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2303.17225) [<font color="#86583D"> [code] </font>](https://github.com/bytedance/FreeSeg)
 
-* *<u>Ming Li</u>\*, Jie Wu\*, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan*. **Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation**, Tech Report on CVPR 2022 Workshop. [arXiv](https://arxiv.org/abs/2206.10845)
+* **Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation.**<br> <font color="#666666" font size=3>Jie Qi*, Jie Wu*, </font>**<font size=3>Ming Li</font>**<font color="#666666" font size=3>, Xuefeng Xiao, Min Zheng, Xingang Wang.</font><br>
+*European Conference on Computer Vision (ECCV) 2022.* [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2208.10169) [<font color="#86583D"> [code] </font>](https://github.com/JayQine/MGD-SSSS)
+
+* **Parallel Pre-trained Transformers for Synthetic Data-based Instance Segmentation.**<br>
+**<font size=3>Ming Li*</font>**, <font color="#666666" font size=3> Jie Wu*, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan</font>.<br>
+*Tech Report on CVPR 2022 Workshop.* [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2206.10845)
 
 
 # Awards
