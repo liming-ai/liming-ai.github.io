@@ -11,9 +11,9 @@ title                    : "Ming Li"
 title_separator          : "-"
 name                     :
 description              :
-url                      : https://mitming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liming.github.io/cv # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mitming/mitming.github.io"
+repository               : "liming-ai/liming.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mitming"
+  github           : "liming-ai"
   google_plus      :
   keybase          :
   instagram        :
