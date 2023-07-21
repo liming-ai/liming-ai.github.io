@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-**I am a CS PhD at the University of Central Florida, supervised by [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html)**.
+**I am an incoming PhD at the University of Central Florida, supervised by [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html)**.
 
 Now I am a research intern at ByteDance under the guidance of [Jie Wu](https://wujie1010.github.io/). Previously, I received the M.S. degree in Computer Science from Xiamen University in 2023, and B.E. degree in software engineering from Hainan University in 2020.
 
