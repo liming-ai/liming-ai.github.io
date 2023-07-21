@@ -16,7 +16,7 @@ Now I am a research intern at ByteDance under the guidance of [Jie Wu](https://w
 # Publications <font size=3>(* denotes equal contribution)</font>
 * **AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.**<br>
 **<font size=3>Ming Li*</font>**, <font color="#666666"  size=3> Jie Wu*, Xionghui Wang, Chen Chen, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan</font>.<br>
-*International Conference on Computer Vision (ICCV) 2023.* [<font color="#86583D"> [Project Page] </font>](https://liming-ai.github.io/AlignDet/)
+*International Conference on Computer Vision (ICCV) 2023.* [<font color="#86583D"> [Project Page] </font>](https://liming-ai.github.io/AlignDet/) [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2307.11077) [<font color="#86583D"> [code] </font>](https://github.com/liming-ai/AlignDet)
 
 * **First Place Solution to the CVPR'2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment.**<br> <font color="#666666" size=3> Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang,</font> **<font size=3> Ming Li</font>**<font color="#666666" size=3>, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen</font>.<br>*Tech Report on CVPR 2023 Workshop.* [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2306.13380) [<font color="#86583D"> [code] </font>](https://github.com/tomchen-ctj/CVPR23-LOVEU-AQTC)
 
