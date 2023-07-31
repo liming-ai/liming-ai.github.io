@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About Me
-**I am an incoming PhD at the University of Central Florida, supervised by [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html)**.
+**I am a CS PhD at the University of Central Florida, supervised by [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html)**.
 
-Now I am a research intern at ByteDance under the guidance of [Jie Wu](https://wujie1010.github.io/). Previously, I received the M.S. degree in Computer Science from Xiamen University in 2023, and B.E. degree in software engineering from Hainan University in 2020.
+I was a research intern at ByteDance under the guidance of [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Previously, I received the M.S. degree in Computer Science from Xiamen University in 2023, and B.E. degree in software engineering from Hainan University in 2020.
 
 # Publications <font size=3>(* denotes equal contribution)</font>
 * **AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.**<br>
