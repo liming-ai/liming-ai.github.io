@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ming Li"
   avatar           : "avatar.png"
-  bio              : "PhD at University of Central Florida"
+  bio              : "First-year PhD at University of Central Florida"
   location         : "Orlando, Florida, USA"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=F2h7bGwAAAAJ&hl=zh-CN&oi=sra
   email            : "liming@Knights.ucf.edu.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
