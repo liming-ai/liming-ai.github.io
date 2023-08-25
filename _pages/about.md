@@ -14,6 +14,9 @@ redirect_from:
 I was a research intern at ByteDance under the guidance of [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Previously, I received the M.S. degree in Computer Science from Xiamen University in 2023, and B.E. degree in software engineering from Hainan University in 2020.
 
 # Publications <font size=3>(* denotes equal contribution)</font>
+* **DLIP: Distilling Language-Image Pre-training.**<br> <font color="#666666" size=3>Huafeng Kuang, Jie Wu, Xiawu Zheng, </font>**<font size=3>Ming Li</font>**<font color="#666666" size=3>, Xuefeng Xiao, Rui Wang, Min Zheng, Rongrong Ji</font>.<br>
+*arXiv 2023.* [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2308.12956)
+
 * **AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.**<br>
 **<font size=3>Ming Li*</font>**, <font color="#666666"  size=3> Jie Wu*, Xionghui Wang, Chen Chen, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan</font>.<br>
 *International Conference on Computer Vision (ICCV) 2023.* [<font color="#86583D"> [Project Page] </font>](https://liming-ai.github.io/AlignDet/) [<font color="#86583D"> [arXiv] </font>](https://arxiv.org/abs/2307.11077) [<font color="#86583D"> [code] </font>](https://github.com/liming-ai/AlignDet)
