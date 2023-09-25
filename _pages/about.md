@@ -33,7 +33,8 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 [AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.](https://arxiv.org/abs/2307.11077)
 
 **Ming Li<sup>*</sup>**, Jie Wu<sup>*#</sup>, Xionghui Wang, Chen Chen<sup>#</sup>, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan.
-**<font color="#9C2C23"> (ICCV 2023)  </font>**
+
+**<font color="#9C2C23">  ICCV 2023 &nbsp; </font>**
 [**[Page]**](https://liming-ai.github.io/AlignDet)
 [**[Code]**](https://github.com/liming-ai/AlignDet)
 [**[Poster]**](https://github.com/liming-ai/AlignDet/blob/page/static/images/Poster_AlignDet.pdf)
@@ -53,7 +54,8 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 [FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation.](https://arxiv.org/abs/2303.17225)
 
 Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, Pengxiang Yan, **Ming Li**, Ren Yuxi, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang<sup>#</sup>.
-**<font color="#9C2C23"> (CVPR 2023)  </font>**
+
+**<font color="#9C2C23"> CVPR 2023 &nbsp;  </font>**
 [**[Page]**](https://freeseg.github.io)
 [**[Code]**](https://github.com/bytedance/FreeSeg)
 
@@ -71,7 +73,8 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, Pengxiang Yan, **Ming Li**, Ren Yuxi, 
 [DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection.](https://arxiv.org/abs/2309.03893)
 
 Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**, Jie Qin, Xuefeng Xiao, Wei Liu, Rui Wang, Min Zheng, Andy J. Ma<sup>#</sup>.
-**<font color="#9C2C23"> (arXiv 2023)  </font>**
+
+**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
 [**[Page]**](https://mettyz.github.io/DiffusionEngine)
 [**[Code]**](https://github.com/bytedance/DiffusionEngine)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -87,7 +90,8 @@ Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**
 [DLIP: Distilling Language-Image Pre-training.](https://arxiv.org/abs/2308.12956)
 
 Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zheng, Rongrong Ji<sup>#</sup>.
-**<font color="#9C2C23"> (arXiv 2023)  </font>**
+
+**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We present  simple yet efficient Distilling Language Image Pre-training (DLIP) framework to distil a light Vision-Language Pre-training model.
@@ -104,7 +108,7 @@ Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zhe
 
 Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, Xingang Wang<sup>#</sup>.
 
-**<font color="#9C2C23"> (ECCV 2022)  </font>**
+**<font color="#9C2C23"> ECCV 2022 &nbsp;  </font>**
 [**[Code]**](https://github.com/JayQine/MGD-SSSS)
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
