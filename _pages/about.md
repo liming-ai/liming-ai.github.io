@@ -121,11 +121,11 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, 
 
 
 - [First Place Solution to the CVPR’2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment.](https://arxiv.org/abs/2306.13380) \\
-Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, Ming Li, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen. \\
+Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen. \\
 **CVPR 2023 Workshop** [**[Code]**](https://github.com/tomchen-ctj/CVPR23-LOVEU-AQTC)
 
 - [First Place Solution to the CVPR’2022 AVA Challenge: Parallel Pre-trained Transformers for Synthetic Data-based Instance Segmentation.](https://arxiv.org/abs/2206.10845) \\
-Ming Li<sup>*</sup>, Jie Wu<sup>*#</sup>, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. \\
+**Ming Li**<sup>*</sup>, Jie Wu<sup>*#</sup>, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. \\
 **CVPR 2022 Workshop**
 
 
