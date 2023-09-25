@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# <font color="#9C2C23"> About Me </font>
+# <font color="#9C2C23" id="about-me" > About Me </font>
 I am a first-year Computer Science Ph.D. at the University of Central Florida, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html). I had the opportunity to serve as an intern at ByteDance, where I collaborated with [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Prior to that, I earned my Master’s degree from Xiamen University and my Bachelor’s degree from Hainan University.
 
 My primary research interest is in Data-centric AI, with the goal of exploring the role and applications of data across a range of pre-training, AIGC, and downstream tasks. Specifically, I am investigating how to facilitate models with fewer data or annotations and how to construct automated data pipelines for various tasks.
@@ -25,7 +25,7 @@ My primary research interest is in Data-centric AI, with the goal of exploring t
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# <font color="#9C2C23"> Publications  </font>
+# <font color="#9C2C23" id="publications" > Publications  </font>
 (* indicates equal contribution; # indicates corresponding authorship.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/AlignDet.png' alt="sym" width="100%"></div></div>
@@ -99,24 +99,24 @@ Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zhe
 
 - [First Place Solution to the CVPR’2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment.](https://arxiv.org/abs/2306.13380) \\
 Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, Ming Li, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen. \\
-**CVPR 2023 Workshop**
+**CVPR 2023 Workshop** [**[Code]**](https://github.com/tomchen-ctj/CVPR23-LOVEU-AQTC)
 
 - [First Place Solution to the CVPR’2022 AVA Challenge: Parallel Pre-trained Transformers for Synthetic Data-based Instance Segmentation.](https://arxiv.org/abs/2206.10845) \\
 Ming Li<sup>*</sup>, Jie Wu<sup>*#</sup>, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. \\
 **CVPR 2022 Workshop**
 
 
-# <font color="#9C2C23"> Internships  </font>
+# <font color="#9C2C23" id="internships" > Internships  </font>
 - *2022.01 - 2023.07*, [TikTok, ByteDance](https://www.tiktok.com/), China.
 
-# <font color="#9C2C23"> Honors  </font>
+# <font color="#9C2C23" id="honors" > Honors  </font>
 - Winner of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3)](https://sites.google.com/view/loveucvpr23/track3).
 - ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
 - Winner of [CVPR 2022 AVA Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/).
 - Excellent Graduation Thesis of Hainan University. 2020.
 - China National Inspirational Scholarship. 2017 and 2018.
 
-# <font color="#9C2C23"> Educations  </font>
+# <font color="#9C2C23" id="educations" > Educations  </font>
 - *2023.09 - Now*, Ph.D., Computer Science, University of Central Florida.
 - *2020.09 - 2023.06*, Master, Computer Science, Xiamen University.
 - *2016.09 - 2020.06*, Bachelar, Software Engineering, Hainan University.
