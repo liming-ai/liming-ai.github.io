@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font color="#9C2C23" id="about-me" > About Me </font>
-I am a first-year Computer Science Ph.D. at the University of Central Florida, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html). I had the opportunity to serve as an intern at ByteDance, where I collaborated with [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Prior to that, I earned my Master’s degree from Xiamen University and my Bachelor’s degree from Hainan University.
+I am a first-year Computer Science Ph.D. at the University of Central Florida, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html). I had the opportunity to serve as an intern with the TikTok team at ByteDance, where I collaborated with [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Prior to that, I earned my Master’s degree from Xiamen University and my Bachelor’s degree from Hainan University.
 
 My primary research interest is in Data-centric AI, with the goal of exploring the role and applications of data across a range of pre-training, AIGC, and downstream tasks. Specifically, I am investigating how to facilitate models with fewer data or annotations and how to construct automated data pipelines for various tasks.
 
@@ -93,6 +93,25 @@ Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zhe
 - We present  simple yet efficient Distilling Language Image Pre-training (DLIP) framework to distil a light Vision-Language Pre-training model.
 - We dissect the distillation from multiple aspects, such as the architecture characteristics of modules and the information transfer of modalities.
 - DLIP succeeds in retaining more than 95% of the performance with 22.4% parameters and 24.8% FLOPs and accelerates inference speed by $2.7\times$.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/MGD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-granularity Distillation Scheme Towards Lightweight Semi-supervised Semantic Segmentation.](https://arxiv.org/abs/2208.10169)
+
+
+Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, Xingang Wang<sup>#</sup>.
+
+**<font color="#9C2C23"> (ECCV 2022)  </font>**
+[**[Code]**](https://github.com/JayQine/MGD-SSSS)
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We offer the first attempt to obtain the lightweight model for semi-supervised semantic segmentation.
+- We propose a multi-granularity distillation (MGD) to distill task-specific concepts from two complementary teacher models into a student one.
+- The labeled-unlabeled data cooperative distillation, and the hierarchical loss paradigm facilitates the lightweight model with less annotations.
+- MGD can outperform the competitive approaches by a large margin under diverse partition protocols with signigicant FLOPs reduction.
 </div>
 </div>
 
