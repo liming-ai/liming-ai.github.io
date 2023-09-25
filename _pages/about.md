@@ -122,11 +122,11 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, 
 
 - [First Place Solution to the CVPR’2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment.](https://arxiv.org/abs/2306.13380) \\
 Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen. \\
-**[CVPR 2023 Workshop](https://sites.google.com/view/loveucvpr23/track3?authuser=0)**  &nbsp; **[[Challenge]](https://codalab.lisn.upsaclay.fr/competitions/4642#results)**  &nbsp; [**[Code]**](https://github.com/tomchen-ctj/CVPR23-LOVEU-AQTC)
+[CVPR 2023 Workshop](https://sites.google.com/view/loveucvpr23/track3?authuser=0)  &nbsp; [[Challenge]](https://codalab.lisn.upsaclay.fr/competitions/4642#results)  &nbsp; [[Code]](https://github.com/tomchen-ctj/CVPR23-LOVEU-AQTC)
 
 - [First Place Solution to the CVPR’2022 AVA Challenge: Parallel Pre-trained Transformers for Synthetic Data-based Instance Segmentation.](https://arxiv.org/abs/2206.10845) \\
 **Ming Li**<sup>*</sup>, Jie Wu<sup>*#</sup>, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. \\
-**[CVPR 2022 Workshop](https://accessibility-cv.github.io/)** &nbsp; **[[Challenge]](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046)**
+[CVPR 2022 Workshop](https://accessibility-cv.github.io/) &nbsp; [[Challenge]](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046)
 
 
 # <font color="#9C2C23" id="internships" > Internships  </font>
