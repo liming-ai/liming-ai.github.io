@@ -28,7 +28,7 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 # <font color="#9C2C23" id="publications" > Publications  </font>
 (* indicates equal contribution; # indicates corresponding authorship.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/AlignDet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AlignDet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.](https://arxiv.org/abs/2307.11077)
 
@@ -48,7 +48,7 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/FreeSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/FreeSeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation.](https://arxiv.org/abs/2303.17225)
@@ -67,7 +67,7 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, Pengxiang Yan, **Ming Li**, Ren Yuxi, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/DED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection.](https://arxiv.org/abs/2309.03893)
@@ -84,7 +84,7 @@ Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/DLIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DLIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DLIP: Distilling Language-Image Pre-training.](https://arxiv.org/abs/2308.12956)
@@ -100,7 +100,7 @@ Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zhe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/MGD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-granularity Distillation Scheme Towards Lightweight Semi-supervised Semantic Segmentation.](https://arxiv.org/abs/2208.10169)
