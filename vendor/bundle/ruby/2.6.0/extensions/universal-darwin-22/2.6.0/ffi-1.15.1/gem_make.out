@@ -1,5 +1,5 @@
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230924-1842-13ugp8a.rb extconf.rb
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230924-6695-16mcwlm.rb extconf.rb
 /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
@@ -9,10 +9,10 @@ checking for whether -pthread is accepted as LDFLAGS... yes
 creating extconf.h
 creating Makefile
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
 make "DESTDIR=" clean
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
 make "DESTDIR="
 compiling AbstractMemory.c
 AbstractMemory.c:1100:17: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
@@ -4087,6 +4087,6 @@ compiling ffi.c
 linking shared-object ffi_c.bundle
 ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/d9889869-120b-11ee-b796-7a03568b17ac/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.5.Internal.sdk/usr/local/lib'
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20230924-1842-1543gmc
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20230924-6695-201vik

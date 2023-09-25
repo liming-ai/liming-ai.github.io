@@ -1,13 +1,13 @@
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230924-1842-1hbe4z.rb extconf.rb
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230924-6695-yxvyx0.rb extconf.rb
 /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
 checking for -lstdc++... yes
 creating Makefile
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
 make "DESTDIR=" clean
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
 make "DESTDIR="
 compiling unf.cc
 unf.cc:27:16: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
@@ -134,6 +134,6 @@ unf.cc:30:16: note: ')' token is here
 linking shared-object unf_ext.bundle
 ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/d9889869-120b-11ee-b796-7a03568b17ac/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.5.Internal.sdk/usr/local/lib'
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230924-1842-gphprs
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230924-6695-jjl4uw

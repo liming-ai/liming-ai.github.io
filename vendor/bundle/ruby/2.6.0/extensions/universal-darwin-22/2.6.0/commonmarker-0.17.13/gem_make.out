@@ -1,12 +1,12 @@
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230924-1842-qjiyc3.rb extconf.rb
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230924-6695-1tv16zd.rb extconf.rb
 /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
 creating Makefile
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" clean
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR="
 compiling arena.c
 compiling autolink.c
@@ -1722,6 +1722,6 @@ compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/d9889869-120b-11ee-b796-7a03568b17ac/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.5.Internal.sdk/usr/local/lib'
 
-current directory: /Users/ming/Code/acad-homepage.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/ming/Code/liming-ai.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20230924-1842-66pal1/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20230924-6695-1q115dh/commonmarker
