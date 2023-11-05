@@ -133,9 +133,9 @@ Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen W
 - *2022.01 - 2023.07*, [TikTok, ByteDance](https://www.tiktok.com/), China.
 
 # <font color="#9C2C23" id="honors" > Honors  </font>
-- Winner of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3)](https://sites.google.com/view/loveucvpr23/track3).
+- Champion of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3)](https://sites.google.com/view/loveucvpr23/track3).
 - ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
-- Winner of [CVPR 2022 AVA Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/).
+- Champion of [CVPR 2022 AVA Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/).
 - Excellent Graduation Thesis of Hainan University. 2020.
 - China National Inspirational Scholarship. 2017 and 2018.
 
