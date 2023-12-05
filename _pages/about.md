@@ -28,6 +28,23 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 # <font color="#9C2C23" id="publications" > Publications  </font>
 (* indicates equal contribution; # indicates corresponding authorship.)
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/LucidDreaming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LucidDreaming: Controllable Object-Centric 3D Generation.](https://arxiv.org/abs/2312.00588)
+
+Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
+
+**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We propose LucidDreaming, a plug-and-play framework to achieve controllable object-centric 3D generation with Large Language Models.
+- We introduces clipped ray sampling and object-centric density bias initialization to generate multiple discrete 3D objects within single scene.
+- LucidDreaming offers a standard in the dataset, evaluation metrics, and clear strategies for the development of controllable 3D generation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AlignDet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.](https://arxiv.org/abs/2307.11077)
