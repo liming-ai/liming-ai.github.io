@@ -37,6 +37,7 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
 
 **<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
+[**[Website]**](https://www.zhaoningwang.com/LucidDreaming/)
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We propose LucidDreaming, a plug-and-play framework to achieve controllable object-centric 3D generation with Large Language Models.
@@ -52,7 +53,7 @@ Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
 **Ming Li<sup>*</sup>**, Jie Wu<sup>*#</sup>, Xionghui Wang, Chen Chen<sup>#</sup>, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan.
 
 **<font color="#9C2C23">  ICCV 2023 &nbsp; </font>**
-[**[Page]**](https://liming-ai.github.io/AlignDet)
+[**[Website]**](https://liming-ai.github.io/AlignDet)
 [**[Code]**](https://github.com/liming-ai/AlignDet)
 [**[Poster]**](https://github.com/liming-ai/AlignDet/blob/page/static/images/Poster_AlignDet.pdf)
 
@@ -73,7 +74,7 @@ Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
 Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, Pengxiang Yan, **Ming Li**, Ren Yuxi, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang<sup>#</sup>.
 
 **<font color="#9C2C23"> CVPR 2023 &nbsp;  </font>**
-[**[Page]**](https://freeseg.github.io)
+[**[Website]**](https://freeseg.github.io)
 [**[Code]**](https://github.com/bytedance/FreeSeg)
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -92,7 +93,7 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, Pengxiang Yan, **Ming Li**, Ren Yuxi, 
 Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**, Jie Qin, Xuefeng Xiao, Wei Liu, Rui Wang, Min Zheng, Andy J. Ma<sup>#</sup>.
 
 **<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
-[**[Page]**](https://mettyz.github.io/DiffusionEngine)
+[**[Website]**](https://mettyz.github.io/DiffusionEngine)
 [**[Code]**](https://github.com/bytedance/DiffusionEngine)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We reveal the Diffusion Model is a scalable data engine for object detection.
