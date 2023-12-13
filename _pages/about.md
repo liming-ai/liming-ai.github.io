@@ -58,7 +58,7 @@ Letian Zhang, **Ming Li**, Chen Chen, Jie Xu
 [**[Website]**](https://ilnerf.github.io/)
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We introduce IL-NeRF to tackle the problems of catastrophic forgetting and coordinate shifting in NeRF training in incremental learning settings.
+- We introduce IL-NeRF to tackle the problems of catastrophic forgetting and coordinate shifting in NeRF training under incremental learning settings.
 - Unlike existing incremental learnin methods assume that input data contain camera poses, we focus on a practical scenario where poses are unknown.
 - The results on real-world indoor and outdoor scenes show that IL-NeRF outperforms the baselines by up to 54.04% in rendering quality.
 </div>
