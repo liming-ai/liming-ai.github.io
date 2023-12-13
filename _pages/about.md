@@ -51,8 +51,7 @@ Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
 
 [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748)
 
-Letian Zhang, **Ming Li**, Chen Chen, Jie Xu
-<sup>#</sup>.
+Letian Zhang, **Ming Li**, Chen Chen, Jie Xu<sup>#</sup>.
 
 **<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
 [**[Website]**](https://ilnerf.github.io/)
