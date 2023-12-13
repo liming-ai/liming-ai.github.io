@@ -46,6 +46,24 @@ Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IL-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748)
+
+Letian Zhang, **Ming Li**, Chen Chen, Jie Xu
+<sup>#</sup>.
+
+**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
+[**[Website]**](https://ilnerf.github.io/)
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We introduce IL-NeRF to tackle the problems of catastrophic forgetting and coordinate shifting in NeRF training in incremental learning settings.
+- Unlike existing incremental learnin methods assume that input data contain camera poses, we focus on a practical scenario where poses are unknown.
+- The results on real-world indoor and outdoor scenes show that IL-NeRF outperforms the baselines by up to 54.04% in rendering quality.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AlignDet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.](https://arxiv.org/abs/2307.11077)
