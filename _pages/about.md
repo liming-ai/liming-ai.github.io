@@ -18,8 +18,7 @@ redirect_from:
 # <font color="#9C2C23" id="about-me" > About Me </font>
 I am a first-year Computer Science Ph.D. student at the University of Central Florida, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html). I had the opportunity to serve as an intern with the TikTok team at ByteDance, where I collaborated with [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Prior to that, I earned my Master’s degree from Xiamen University and my Bachelor’s degree from Hainan University.
 
-My primary research interest is in Data-centric AI, aiming to explore the role and applications of data across a range of AIGC, pre-training, and downstream tasks. Specifically, I am investigating how to facilitate models with more efficient data or annotations and how to construct automated data pipelines for various tasks.
-
+My primary research interest is in Data-centric AI, aiming to explore the role and applications of data across a range of AIGC, pre-training, and downstream tasks. Specifically, I am investigating how to facilitate models with more efficient data or annotations and how to construct automated data pipelines for various tasks. Recently, I am working on how to use discriminative models and large multi-modal models to improve diffusion models.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -28,40 +27,6 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 # <font color="#9C2C23" id="publications" > Publications  </font>
 (* indicates equal contribution; # indicates corresponding authorship.)
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/LucidDreaming.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LucidDreaming: Controllable Object-Centric 3D Generation.](https://arxiv.org/abs/2312.00588)
-
-Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
-
-**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
-[**[Website]**](https://www.zhaoningwang.com/LucidDreaming/)
-
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose LucidDreaming, a plug-and-play framework to achieve controllable object-centric 3D generation with Large Language Models.
-- We introduces clipped ray sampling and object-centric density bias initialization to generate multiple discrete 3D objects within single scene.
-- LucidDreaming offers a standard in the dataset, evaluation metrics, and clear strategies for the development of controllable 3D generation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IL-NeRF.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748)
-
-Letian Zhang, **Ming Li**, Chen Chen, Jie Xu<sup>#</sup>.
-
-**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
-[**[Website]**](https://ilnerf.github.io/)
-
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We introduce IL-NeRF to tackle the problems of catastrophic forgetting and coordinate shifting in NeRF training under incremental learning settings.
-- Unlike existing incremental learnin methods assume that input data contain camera poses, we focus on a practical scenario where poses are unknown.
-- The results on real-world indoor and outdoor scenes show that IL-NeRF outperforms the baselines by up to 54.04% in rendering quality.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AlignDet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -119,6 +84,24 @@ Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/LucidDreaming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LucidDreaming: Controllable Object-Centric 3D Generation.](https://arxiv.org/abs/2312.00588)
+
+Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
+
+**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
+[**[Website]**](https://www.zhaoningwang.com/LucidDreaming/)
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We propose LucidDreaming, a plug-and-play framework to achieve controllable object-centric 3D generation with Large Language Models.
+- We introduces clipped ray sampling and object-centric density bias initialization to generate multiple discrete 3D objects within single scene.
+- LucidDreaming offers a standard in the dataset, evaluation metrics, and clear strategies for the development of controllable 3D generation.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DLIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,6 +117,25 @@ Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zhe
 - DLIP succeeds in retaining more than 95% of the performance with 22.4% parameters and 24.8% FLOPs and accelerates inference speed by $2.7\times$.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IL-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748)
+
+Letian Zhang, **Ming Li**, Chen Chen, Jie Xu<sup>#</sup>.
+
+**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
+[**[Website]**](https://ilnerf.github.io/)
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We introduce IL-NeRF to tackle the problems of catastrophic forgetting and coordinate shifting in NeRF training under incremental learning settings.
+- Unlike existing incremental learnin methods assume that input data contain camera poses, we focus on a practical scenario where poses are unknown.
+- The results on real-world indoor and outdoor scenes show that IL-NeRF outperforms the baselines by up to 54.04% in rendering quality.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
