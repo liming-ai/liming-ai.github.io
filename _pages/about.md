@@ -27,6 +27,23 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 # <font color="#9C2C23" id="publications" > Publications  </font>
 (* indicates equal contribution; # indicates corresponding authorship.)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/controlnet++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback.](https://arxiv.org/abs/2404.07987)
+
+**Ming Li**, Taojiannan Yang, Huafeng Kuang, Jie Wu, Zhaoning Wang, Xuefeng Xiao, Chen Chen
+
+**<font color="#9C2C23">  arXiv 2024 &nbsp; </font>**
+[**[Website]**](https://liming-ai.github.io/ControlNet_Plus_Plus)
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Existing efforts in controllable generation still perform poorly in controllability, with generated images deviating from input conditions.
+- We show that pre-trained discriminative models can serve as powerful visual reward models to improve the controllability in a cycle-consistency manner.
+- We disrupt the consistency between input images and conditions, and enable the single-step denoising for efficient reward fine-tuning.
+- We provide a unified and public evaluation of controllability and demonstrate that ControlNet++ comprehensively outperforms existing methods.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AlignDet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,41 +119,6 @@ Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DLIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DLIP: Distilling Language-Image Pre-training.](https://arxiv.org/abs/2308.12956)
-
-Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zheng, Rongrong Ji<sup>#</sup>.
-
-**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
-
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We present  simple yet efficient Distilling Language Image Pre-training (DLIP) framework to distil a light Vision-Language Pre-training model.
-- We dissect the distillation from multiple aspects, such as the architecture characteristics of modules and the information transfer of modalities.
-- DLIP succeeds in retaining more than 95% of the performance with 22.4% parameters and 24.8% FLOPs and accelerates inference speed by $2.7\times$.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IL-NeRF.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748)
-
-Letian Zhang, **Ming Li**, Chen Chen, Jie Xu<sup>#</sup>.
-
-**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
-[**[Website]**](https://ilnerf.github.io/)
-
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We introduce IL-NeRF to tackle the problems of catastrophic forgetting and coordinate shifting in NeRF training under incremental learning settings.
-- Unlike existing incremental learnin methods assume that input data contain camera poses, we focus on a practical scenario where poses are unknown.
-- The results on real-world indoor and outdoor scenes show that IL-NeRF outperforms the baselines by up to 54.04% in rendering quality.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -156,6 +138,13 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, 
 </div>
 </div>
 
+- [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748) \\
+Letian Zhang, **Ming Li**, Chen Chen, Jie Xu. \\
+arXiv 2023 &nbsp; [[Website]](https://ilnerf.github.io/)
+
+- [DLIP: Distilling Language-Image Pre-training.](https://arxiv.org/abs/2308.12956) \\
+Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zheng, Rongrong Ji. \\
+arXiv 2023 &nbsp;
 
 - [First Place Solution to the CVPR’2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment.](https://arxiv.org/abs/2306.13380) \\
 Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen Wang, Wei Miao, Wei Sun, Chen Chen. \\
@@ -167,7 +156,8 @@ Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen W
 
 
 # <font color="#9C2C23" id="internships" > Internships  </font>
-- *2022.01 - 2023.07*, [ByteDance](https://www.tiktok.com/), China.
+- *2024.05 - 2024.08*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
+- *2022.01 - 2023.07*, [ByteDance](https://www.tiktok.com/), Shenzhen, China.
 
 # <font color="#9C2C23" id="honors" > Honors  </font>
 - Champion of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3)](https://sites.google.com/view/loveucvpr23/track3).
