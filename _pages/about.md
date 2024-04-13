@@ -157,7 +157,7 @@ Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen W
 
 # <font color="#9C2C23" id="internships" > Internships  </font>
 - *2024.05 - 2024.08*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
-- *2022.01 - 2023.07*, [ByteDance](https://www.tiktok.com/), Shenzhen, China.
+- *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
 
 # <font color="#9C2C23" id="honors" > Honors  </font>
 - Champion of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3)](https://sites.google.com/view/loveucvpr23/track3).
