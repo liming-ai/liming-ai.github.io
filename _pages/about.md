@@ -35,6 +35,8 @@ My primary research interest is in Data-centric AI, aiming to explore the role a
 
 **<font color="#9C2C23">  arXiv 2024 &nbsp; </font>**
 [**[Website]**](https://liming-ai.github.io/ControlNet_Plus_Plus)
+[**[Code]**](https://github.com/liming-ai/ControlNet_Plus_Plus)
+[**[Demo]**](https://huggingface.co/spaces/limingcv/ControlNet-Plus-Plus)
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Existing efforts in controllable generation still perform poorly in controllability, with generated images deviating from input conditions.
