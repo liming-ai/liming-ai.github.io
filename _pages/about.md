@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font color="#9C2C23" id="about-me" > About Me </font>
-I am a first-year Computer Science Ph.D. student at the University of Central Florida, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html). I am currently interning at ByteDance USA, and my mentor is [Sijie Zhu](https://jeff-zilence.github.io/). I had the opportunity to serve as an intern at ByteDance, where I collaborated with [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Prior to that, I earned my Master’s degree from Xiamen University and my Bachelor’s degree from Hainan University.
+I am a first-year Computer Science Ph.D. student at the University of Central Florida, under the supervision of [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html). I am currently interning at TikTok, and my mentor is [Sijie Zhu](https://jeff-zilence.github.io/). I was an intern at ByteDance, where I collaborated with [Jie Wu](https://wujie1010.github.io/) from January 2022 to July 2023. Prior to that, I earned my Master’s degree from Xiamen University and my Bachelor’s degree from Hainan University.
 
 My primary research interest is in Data-centric AI, aiming to explore the role and applications of data across a range of AIGC, pre-training, and downstream tasks. Specifically, I am investigating how to facilitate models with more efficient data or annotations and how to construct automated data pipelines for various tasks. Recently, I am working on image/video generation and editing.
 
