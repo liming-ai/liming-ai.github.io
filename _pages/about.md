@@ -103,23 +103,6 @@ Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/LucidDreaming.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LucidDreaming: Controllable Object-Centric 3D Generation.](https://arxiv.org/abs/2312.00588)
-
-Zhaoning Wang, **Ming Li**, Chen Chen<sup>#</sup>.
-
-**<font color="#9C2C23"> arXiv 2023 &nbsp;  </font>**
-[**[Website]**](https://www.zhaoningwang.com/LucidDreaming/)
-
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose LucidDreaming, a plug-and-play framework to achieve controllable object-centric 3D generation with Large Language Models.
-- We introduces clipped ray sampling and object-centric density bias initialization to generate multiple discrete 3D objects within single scene.
-- LucidDreaming offers a standard in the dataset, evaluation metrics, and clear strategies for the development of controllable 3D generation.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -142,7 +125,11 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, 
 
 - [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748) \\
 Letian Zhang, **Ming Li**, Chen Chen, Jie Xu. \\
-arXiv 2023 &nbsp; [[Website]](https://ilnerf.github.io/)
+arXiv 2024 &nbsp; [[Website]](https://ilnerf.github.io/)
+
+- [LucidDreaming: Controllable Object-Centric 3D Generation.](https://arxiv.org/abs/2312.00588) \\
+Zhaoning Wang, **Ming Li**, Chen Chen. \\
+arXiv 2024 &nbsp; [[Website]](https://www.zhaoningwang.com/LucidDreaming)
 
 - [DLIP: Distilling Language-Image Pre-training.](https://arxiv.org/abs/2308.12956) \\
 Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zheng, Rongrong Ji. \\
