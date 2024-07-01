@@ -33,7 +33,7 @@ My primary research interest is in Data-centric AI, investigating how to facilit
 
 **Ming Li**, Taojiannan Yang, Huafeng Kuang, Jie Wu, Zhaoning Wang, Xuefeng Xiao, Chen Chen
 
-**<font color="#9C2C23">  arXiv 2024 &nbsp; </font>**
+**<font color="#9C2C23">  ECCV 2024 &nbsp; </font>**
 [**[Website]**](https://liming-ai.github.io/ControlNet_Plus_Plus)
 [**[Code]**](https://github.com/liming-ai/ControlNet_Plus_Plus)
 [**[Demo]**](https://huggingface.co/spaces/limingcv/ControlNet-Plus-Plus)
