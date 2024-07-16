@@ -123,6 +123,10 @@ Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, 
 </div>
 </div>
 
+- [Frame Interpolation with Consecutive Brownian Bridge Diffusion.](https://arxiv.org/abs/2405.05953) \\
+Zonglin Lyu, **Ming Li**, Jianbo Jiao, Chen Chen. \\
+ACM MM 2024 &nbsp; [[Website]](https://zonglinl.github.io/videointerp/) &nbsp; [[Code]](https://github.com/ZonglinL/ConsecutiveBrownianBridge)
+
 - [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.](https://arxiv.org/abs/2312.05748) \\
 Letian Zhang, **Ming Li**, Chen Chen, Jie Xu. \\
 arXiv 2024 &nbsp; [[Website]](https://ilnerf.github.io/)
