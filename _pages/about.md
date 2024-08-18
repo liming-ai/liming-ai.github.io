@@ -133,7 +133,7 @@ arXiv 2024 &nbsp; [[Website]](https://ilnerf.github.io/)
 
 - [LucidDreaming: Controllable Object-Centric 3D Generation.](https://arxiv.org/abs/2312.00588) \\
 Zhaoning Wang, **Ming Li**, Chen Chen. \\
-arXiv 2024 &nbsp; [[Website]](https://www.zhaoningwang.com/LucidDreaming)
+ECCV 2024 Workshop: Computer Vision For Videogames (CV2) &nbsp; [[Website]](https://www.zhaoningwang.com/LucidDreaming)
 
 - [DLIP: Distilling Language-Image Pre-training.](https://arxiv.org/abs/2308.12956) \\
 Huafeng Kuang, Jie Wu, Xiawu Zheng, **Ming Li**, Xuefeng Xiao, Rui Wang, Min Zheng, Rongrong Ji. \\
