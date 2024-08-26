@@ -149,7 +149,7 @@ Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen W
 
 
 # <font color="#9C2C23" id="internships" > Internships  </font>
-- *2024.05 - 2024.08*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
+- *2024.05 - Now*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
 - *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
 
 # <font color="#9C2C23" id="honors" > Honors  </font>
