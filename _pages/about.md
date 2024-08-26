@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font color="#9C2C23" id="about-me" > About Me </font>
-I am a second-year PhD student in Computer Science at the University of Central Florida, with [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at TikTok with [Sijie Zhu](https://jeff-zilence.github.io/). Prior to this, I worked as an intern at ByteDance with [Jie Wu](https://wujie1010.github.io/).
+I am a second-year PhD student in Computer Science at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at TikTok with [Sijie Zhu](https://jeff-zilence.github.io/). Prior to this, I worked as an intern at ByteDance with [Jie Wu](https://wujie1010.github.io/).
 
 My primary research interest is in Data-centric AI, investigating how to facilitate models with more efficient data or annotations and how to construct automated data pipelines for various tasks. Recently, I am working on image/video generation and editing.
 
