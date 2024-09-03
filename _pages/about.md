@@ -104,24 +104,10 @@ Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MGD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Multi-granularity Distillation Scheme Towards Lightweight Semi-supervised Semantic Segmentation.](https://arxiv.org/abs/2208.10169)
-
-
-Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, Xingang Wang<sup>#</sup>.
-
-**<font color="#9C2C23"> ECCV 2022 &nbsp;  </font>**
-[**[Code]**](https://github.com/JayQine/MGD-SSSS)
-
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We offer the first attempt to obtain the lightweight model for semi-supervised semantic segmentation.
-- We propose a multi-granularity distillation (MGD) to distill task-specific concepts from two complementary teacher models into a student one.
-- The labeled-unlabeled data cooperative distillation, and the hierarchical loss paradigm facilitates the lightweight model with less annotations.
-- MGD can outperform the competitive approaches by a large margin under diverse partition protocols with signigicant FLOPs reduction.
-</div>
-</div>
+ \\
+Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, **Ming Li**, Xuefeng Xiao, Min Zheng, Xingang Wang<sup>#</sup>. \\
+ECCV 2022 &nbsp; [**[Code]**](https://github.com/JayQine/MGD-SSSS)
 
 - [Frame Interpolation with Consecutive Brownian Bridge Diffusion.](https://arxiv.org/abs/2405.05953) \\
 Zonglin Lyu, **Ming Li**, Jianbo Jiao, Chen Chen. \\
