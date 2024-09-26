@@ -24,9 +24,8 @@ My primary research interest is in Data-centric AI, investigating how to facilit
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# <font color="#9C2C23" id="publications" > Selected Publications </font>
+# <font color="#9C2C23" id="publications" > Publications  </font>
 (* indicates equal contribution; # indicates corresponding authorship.)
-[Full List](https://scholar.google.com/citations?user=F2h7bGwAAAAJ) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/controlnet++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,7 +103,6 @@ Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**
 </div>
 </div>
 
-<!--
 
 - [Multi-granularity Distillation Scheme Towards Lightweight Semi-supervised Semantic Segmentation.](https://arxiv.org/abs/2208.10169)
  \\
@@ -134,7 +132,7 @@ Tom Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Ming Li**, Zechuan Li, Jingwen W
 - [First Place Solution to the CVPR’2022 AVA Challenge: Parallel Pre-trained Transformers for Synthetic Data-based Instance Segmentation.](https://arxiv.org/abs/2206.10845) \\
 **Ming Li**<sup>*</sup>, Jie Wu<sup>*#</sup>, Jinhang Cai, Jie Qin, Yuxi Ren, Xuefeng Xiao, Min Zheng, Rui Wang, Xin Pan. \\
 [CVPR 2022 Workshop](https://accessibility-cv.github.io/) &nbsp; [[Challenge]](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046)
- -->
+
 
 # <font color="#9C2C23" id="internships" > Internships  </font>
 - *2024.05 - Now*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
