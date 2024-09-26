@@ -24,8 +24,9 @@ My primary research interest is in Data-centric AI, investigating how to facilit
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# <font color="#9C2C23" id="publications" > Selected Publications [Full List](https://scholar.google.com/citations?user=F2h7bGwAAAAJ) </font>
+# <font color="#9C2C23" id="publications" > Selected Publications </font>
 (* indicates equal contribution; # indicates corresponding authorship.)
+[Full List](https://scholar.google.com/citations?user=F2h7bGwAAAAJ) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/controlnet++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
