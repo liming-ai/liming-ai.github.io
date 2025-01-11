@@ -50,7 +50,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 **<font color="#9C2C23">  ICCV 2023 &nbsp; </font>**
 [**[Website]**](https://liming-ai.github.io/AlignDet)
-[**[Code]**](https://github.com/liming-ai/AlignDet)
 [**[Poster]**](https://github.com/liming-ai/AlignDet/blob/page/static/images/Poster_AlignDet.pdf)
 <a href="https://github.com/liming-ai/AlignDet">
   <img src="https://img.shields.io/github/stars/liming-ai/AlignDet?style=social" alt="GitHub Stars">
