@@ -107,9 +107,10 @@ Manlin Zhang<sup>*</sup>, Jie Wu<sup>*#</sup>, Yuxi Ren<sup>*</sup>, **Ming Li**
 - *2024.05 - Now*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
 - *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
 
-# <font color="#9C2C23" id="honors" > Honors  </font>
-- 🏆 Champion of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3)](https://sites.google.com/view/loveucvpr23/track3).
-- 🏆 Champion of [CVPR 2022 AVA Accessibility Vision and Autonomy Challenge](https://accessibility-cv.github.io/).
+# <font color="#9C2C23" id="honors" > Honors </font>
+- [NeurIPS 2024 Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
+- 🏆 Champion of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3: Question-driven Video Understanding)](https://sites.google.com/view/loveucvpr23/track3).
+- 🏆 Champion of [CVPR 2022 AVA Accessibility Vision and Autonomy Challenge (Image Segmentation)](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046).
 - ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
 
 # <font color="#9C2C23" id="educations" > Educations  </font>
