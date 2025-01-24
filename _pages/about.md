@@ -38,7 +38,7 @@ Xin Gu, **Ming Li**, Libo Zhang, Fan Chen, Longyin Wen, Tiejian Luo, Sijie Zhu
 
 - We propose RewardEdit-20K, a multi-perspective reward dataset for instruction-based image editing.
 - We show that multiperspective reward information can be utilized as additional conditions to better guide image editing.
-- We establish a real-world image editing evaluation benchmark Real-Edit and introduced a human-aligned image editing evaluation method based on GPT-4o.
+- We establish a real-world image editing benchmark Real-Edit and introduced a human-aligned image editing evaluation method based on GPT-4o.
 </div>
 </div>
 
