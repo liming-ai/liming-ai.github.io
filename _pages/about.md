@@ -20,6 +20,29 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 
 # <font color="#9C2C23" id="publications" > Selected Publications  </font>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MultiReward.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Multi-Reward as Condition for Instruction-based Image Editing.](https://arxiv.org/abs/2411.04713)
+
+Xin Gu, **Ming Li**, Libo Zhang, Fan Chen, Longyin Wen, Tiejian Luo, Sijie Zhu
+
+**<font color="#9C2C23"> ICLR 2025 &nbsp; [Working on open source] </font>**
+<!-- [**[Code]**](https://liming-ai.github.io/ControlNet_Plus_Plus) -->
+<!-- [**[Demo]**](https://huggingface.co/spaces/limingcv/ControlNet-Plus-Plus)
+[**[Slides]**](https://docs.google.com/presentation/d/1M86CmxF4E48xWXoO4N5M8JVoYSfB6KCN-7y1K0Z7xkE)
+<a href="https://github.com/liming-ai/ControlNet_Plus_Plus">
+  <img src="https://img.shields.io/github/stars/liming-ai/ControlNet_Plus_Plus?style=social" alt="GitHub Stars">
+</a> -->
+
+- We propose RewardEdit-20K, a multi-perspective reward dataset for instruction-based image editing.
+- We show that multiperspective reward information can be utilized as additional conditions to better guide image editing.
+- We establish a real-world image editing evaluation benchmark Real-Edit and introduced a GPT-4o-based image editing evaluation method
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/controlnet++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback.](https://arxiv.org/abs/2404.07987)
