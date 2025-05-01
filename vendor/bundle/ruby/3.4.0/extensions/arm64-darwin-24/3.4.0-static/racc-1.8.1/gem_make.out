@@ -1,0 +1,19 @@
+current directory: /Users/bytedance/Code/liming-ai.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/bytedance/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/bytedance/Code/liming-ai.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250430-65030-14y2fa sitelibdir\=./.gem.20250430-65030-14y2fa clean
+
+current directory: /Users/bytedance/Code/liming-ai.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250430-65030-14y2fa sitelibdir\=./.gem.20250430-65030-14y2fa
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/opt/gdbm/lib' not found
+
+current directory: /Users/bytedance/Code/liming-ai.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250430-65030-14y2fa sitelibdir\=./.gem.20250430-65030-14y2fa install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250430-65030-14y2fa/racc
+
+current directory: /Users/bytedance/Code/liming-ai.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250430-65030-14y2fa sitelibdir\=./.gem.20250430-65030-14y2fa clean
