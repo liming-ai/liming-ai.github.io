@@ -15,11 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# <font id="about-me" > About Me </font>
+# <font id="about-me" > <font color="#000000"> About Me </font>
 I am a second-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at TikTok with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual reward fine-tuning. Before this, I conducted research on image editing with [Sijie Zhu](https://jeff-zilence.github.io/) and [Longyin Wen](https://scholar.google.com/citations?user=PO9WFl0AAAAJ&hl=zh-CN).
 
 
-# <font id="publications" > Publications  </font>
+# <font id="publications" ><font color="#000000"> Publications  </font>
 
 <!-- Multi-Reward -->
 <div class="paper-box-text">
@@ -81,7 +81,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 </div>
 
 
-# <font id="preprints" > Preprints  </font>
+# <font id="preprints" ><font color="#000000"> Preprints  </font>
 
 <!-- LVLM Interpretation -->
 <div class="paper-box-text">
@@ -118,11 +118,11 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 </div>
 
 
-# <font id="internships" > Internships  </font>
+# <font id="internships" ><font color="#000000"> Internships  </font>
 - *2024.05 - Now*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
 - *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
 
-# <font id="honors" > Honors </font>
+# <font id="honors" ><font color="#000000"> Honors </font>
 - [NeurIPS 2024 Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
 - 🏆 Champion of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3: Question-driven Video Understanding)](https://sites.google.com/view/loveucvpr23/track3).
 - 🏆 Champion of [CVPR 2022 AVA Accessibility Vision and Autonomy Challenge (Image Segmentation)](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046).

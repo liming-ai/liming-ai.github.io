@@ -1,15 +1,15 @@
 main:
-  - title: "About Me"
-    url: "#about-me"
+  # - title: "About Me"
+  #   url: "#about-me"
 
-  - title: "Publications"
-    url: "#publications"
+  # - title: "Publications"
+  #   url: "#publications"
 
-  - title: "Preprints"
-    url: "#preprints"
+  # - title: "Preprints"
+  #   url: "#preprints"
 
-  - title: "Internships"
-    url: "#internships"
+  # - title: "Internships"
+  #   url: "#internships"
 
-  - title: "Honors"
-    url: "#honors"
+  # - title: "Honors"
+  #   url: "#honors"
