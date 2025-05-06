@@ -83,6 +83,17 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 # <font id="preprints" ><font color="#000000"> Preprints  </font>
 
+<!-- SuperEdit -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [arXiv'25] &nbsp; </font></strong><a href="https://arxiv.org/abs/2505.02370">SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing</a>
+    <a href="https://github.com/bytedance/SuperEdit"><img src="https://img.shields.io/github/stars/bytedance/SuperEdit?style=social" alt="GitHub Stars" /></a>
+  </p>
+  <p>
+    Xiaoying Xing, Chia-Wen Kuo, Fuxin Li, Yulei Niu, Fan Chen, <strong>Ming Li</strong>, Ying Wu, Longyin Wen, Sijie Zhu
+  </p>
+</div>
+
 <!-- LVLM Interpretation -->
 <div class="paper-box-text">
   <p>
