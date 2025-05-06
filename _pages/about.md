@@ -90,7 +90,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
     <a href="https://github.com/bytedance/SuperEdit"><img src="https://img.shields.io/github/stars/bytedance/SuperEdit?style=social" alt="GitHub Stars" /></a>
   </p>
   <p>
-    Xiaoying Xing, Chia-Wen Kuo, Fuxin Li, Yulei Niu, Fan Chen, <strong>Ming Li</strong>, Ying Wu, Longyin Wen, Sijie Zhu
+    <strong>Ming Li</strong>, Xin Gu, Fan Chen, Xiaoying Xing, Longyin Wen, Chen Chen, Sijie Zhu
   </p>
 </div>
 
