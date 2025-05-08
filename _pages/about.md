@@ -124,7 +124,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
     <a href="https://arxiv.org/abs/2309.03893">IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.</a>
   </p>
   <p>
-    Letian Zhang, Ming Li, Chen Chen, Jie Xu
+    Letian Zhang, <strong>Ming Li</strong>, Chen Chen, Jie Xu
   </p>
 </div>
 
