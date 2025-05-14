@@ -80,6 +80,17 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
 </div>
 
+<!-- IL-NeRF -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [CVPR'25 Workshop, 4th Computer Vision for Metaverse] &nbsp; </font></strong>
+    <a href="https://arxiv.org/abs/2309.03893">IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.</a>
+  </p>
+  <p>
+    Letian Zhang, <strong>Ming Li</strong>, Chen Chen, Jie Xu
+  </p>
+</div>
+
 
 # <font id="preprints" ><font color="#000000"> Preprints  </font>
 
@@ -114,17 +125,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
   <p>
     Manlin Zhang, Jie Wu, Yuxi Ren, <strong>Ming Li</strong>, Jie Qin, Xuefeng Xiao, Wei Liu, Rui Wang, Min Zheng, Andy J. Ma
-  </p>
-</div>
-
-<!-- IL-NeRF -->
-<div class="paper-box-text">
-  <p>
-    <strong><font color="#9C2C23"> [arXiv'23] &nbsp; </font></strong>
-    <a href="https://arxiv.org/abs/2309.03893">IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.</a>
-  </p>
-  <p>
-    Letian Zhang, <strong>Ming Li</strong>, Chen Chen, Jie Xu
   </p>
 </div>
 
