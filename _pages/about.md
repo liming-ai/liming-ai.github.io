@@ -83,7 +83,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 <!-- IL-NeRF -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [CVPR'25 Workshop, 4th Computer Vision for Metaverse] &nbsp; </font></strong>
+    <strong><font color="#9C2C23"> [CVPR'25 Workshop, Computer Vision for Metaverse] &nbsp; </font></strong>
     <a href="https://arxiv.org/abs/2309.03893">IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment.</a>
   </p>
   <p>
