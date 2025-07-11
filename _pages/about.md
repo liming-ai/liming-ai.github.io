@@ -41,6 +41,18 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   <p>Xin Gu, <strong>Ming Li</strong>, Libo Zhang, Fan Chen, Longyin Wen, Tiejian Luo, Sijie Zhu</p>
 </div>
 
+<!-- DiffusionEngine -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [PR'25] &nbsp; </font></strong>
+    <a href="https://arxiv.org/abs/2309.03893">DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection.</a>
+    <a href="https://github.com/bytedance/DiffusionEngine"><img src="https://img.shields.io/github/stars/bytedance/DiffusionEngine?style=social" alt="GitHub Stars" /></a>
+  </p>
+  <p>
+    Manlin Zhang, Jie Wu, Yuxi Ren, <strong>Ming Li</strong>, Jie Qin, Xuefeng Xiao, Wei Liu, Rui Wang, Min Zheng, Andy J. Ma
+  </p>
+</div>
+
 <!-- ControlNet++ -->
 <div class="paper-box-text">
   <p>
@@ -116,17 +128,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
 </div>
 
-<!-- DiffusionEngine -->
-<div class="paper-box-text">
-  <p>
-    <strong><font color="#9C2C23"> [arXiv'23] &nbsp; </font></strong>
-    <a href="https://arxiv.org/abs/2309.03893">DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection.</a>
-    <a href="https://github.com/bytedance/DiffusionEngine"><img src="https://img.shields.io/github/stars/bytedance/DiffusionEngine?style=social" alt="GitHub Stars" /></a>
-  </p>
-  <p>
-    Manlin Zhang, Jie Wu, Yuxi Ren, <strong>Ming Li</strong>, Jie Qin, Xuefeng Xiao, Wei Liu, Rui Wang, Min Zheng, Andy J. Ma
-  </p>
-</div>
 
 
 # <font id="internships" ><font color="#000000"> Internships  </font>
