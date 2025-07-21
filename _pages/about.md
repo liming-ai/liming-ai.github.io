@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font id="about-me" > <font color="#000000"> About Me </font>
-I am a second-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at TikTok with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual reward fine-tuning. Before this, I conducted research on image editing with [Sijie Zhu](https://jeff-zilence.github.io/) and [Longyin Wen](https://scholar.google.com/citations?user=PO9WFl0AAAAJ&hl=zh-CN).
+I am a second-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at TikTok with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual and multimodal RL. Before this, I conducted research on image editing with [Sijie Zhu](https://jeff-zilence.github.io/) and [Longyin Wen](https://scholar.google.com/citations?user=PO9WFl0AAAAJ&hl=zh-CN).
 
 
 # <font id="publications" ><font color="#000000"> Publications  </font>
