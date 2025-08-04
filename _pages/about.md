@@ -131,7 +131,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 
 # <font id="internships" ><font color="#000000"> Internships  </font>
-- *2024.05 - Now*, [TikTok, ByteDance](https://www.tiktok.com/), San Jose, USA.
+- *2024.05 - Now*, [TikTok, ByteDance](https://www.tiktok.com/), USA.
 - *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
 
 # <font id="honors" ><font color="#000000"> Honors </font>
