@@ -21,6 +21,17 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 # <font id="publications" ><font color="#000000"> Publications  </font>
 
+<!-- RewardDance -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [Tech Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2509.08826">RewardDance: Reward Scaling in Visual Generation</a>
+    <a href="https://seed.bytedance.com/en/seedance"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" alt="Seedance Website" /></a>
+  </p>
+  <p>
+    Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
+  </p>
+</div>
+
 <!-- SuperEdit -->
 <div class="paper-box-text">
   <p>
