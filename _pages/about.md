@@ -24,7 +24,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 <!-- RewardDance -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [Tech Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2509.08826">RewardDance: Reward Scaling in Visual Generation</a>
+    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2509.08826">RewardDance: Reward Scaling in Visual Generation</a>
   </p>
   <p>
     Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
