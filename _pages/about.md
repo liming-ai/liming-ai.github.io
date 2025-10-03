@@ -21,6 +21,17 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 # <font id="publications" ><font color="#000000"> Publications  </font>
 
+<!-- Self-Forcing++ -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2510.02283">Self-Forcing++: Towards Minute-Scale High-Quality Video Generation</a>
+    <a href="https://github.com/justincui03/Self-Forcing-Plus-Plus"><img src="https://img.shields.io/github/stars/justincui03/Self-Forcing-Plus-Plus?style=social" alt="GitHub Stars" /></a>
+  </p>
+  <p>
+    Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
+  </p>
+</div>
+
 <!-- RewardDance -->
 <div class="paper-box-text">
   <p>
