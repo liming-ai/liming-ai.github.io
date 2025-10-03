@@ -28,7 +28,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
     <a href="https://github.com/justincui03/Self-Forcing-Plus-Plus"><img src="https://img.shields.io/github/stars/justincui03/Self-Forcing-Plus-Plus?style=social" alt="GitHub Stars" /></a>
   </p>
   <p>
-    Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
+    Justin Cui, Jie Wu, <strong>Ming Li</strong>, Tao Yang, Xiaojie Li, Rui Wang, Andrew Bai, Yuanhao Ban, Cho-Jui Hsieh
   </p>
 </div>
 
