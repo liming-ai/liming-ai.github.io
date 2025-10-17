@@ -42,6 +42,16 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
 </div>
 
+<!-- CPO -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [NeurIPS'25] &nbsp; </font></strong><a href="https://neurips.cc/virtual/2025/poster/117815">CPO: Condition Preference Optimization for Controllable Image Generation</a>
+  </p>
+  <p>
+    Zonglin Lyu, <strong>Ming Li</strong>, Xinxin Liu, Chen Chen
+  </p>
+</div>
+
 <!-- SuperEdit -->
 <div class="paper-box-text">
   <p>
