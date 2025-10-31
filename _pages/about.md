@@ -87,7 +87,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
     <strong><font color="#9C2C23"> [ICCV'23] &nbsp; </font></strong><a href="https://arxiv.org/abs/2307.11077">AlignDet: Aligning Pre-training and Fine-tuning in Object Detection.</a>
     <a href="https://github.com/liming-ai/AlignDet"><img src="https://img.shields.io/github/stars/liming-ai/AlignDet?style=social" alt="GitHub Stars" /></a>
   </p>
-  <p><strong>Ming Li<sup>*</sup></strong>, Jie Wu<sup>*#</sup>, Xionghui Wang, Chen Chen<sup>#</sup>, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan</p>
+  <p><strong>Ming Li<sup>*</sup></strong>, Jie Wu<sup>*</sup>, Xionghui Wang, Chen Chen, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan</p>
 </div>
 
 <!-- FreeSeg -->
@@ -96,7 +96,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
     <strong><font color="#9C2C23"> [CVPR'23] &nbsp; </font></strong><a href="https://arxiv.org/abs/2303.17225">FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation.</a>
     <a href="https://github.com/bytedance/FreeSeg"><img src="https://img.shields.io/github/stars/bytedance/FreeSeg?style=social" alt="GitHub Stars" /></a>
   </p>
-  <p>Jie Qin<sup>*</sup>, Jie Wu<sup>*#</sup>, Pengxiang Yan, <strong>Ming Li</strong>, Ren Yuxi, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang<sup>#</sup></p>
+  <p>Jie Qin<sup>*</sup>, Jie Wu<sup>*</sup>, Pengxiang Yan, <strong>Ming Li</strong>, Ren Yuxi, Xuefeng Xiao, Yitong Wang, Rui Wang, Shilei Wen, Xin Pan, Xingang Wang</p>
 </div>
 
 
