@@ -21,6 +21,16 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 # <font id="publications" ><font color="#000000"> Selected Publications  </font>
 
+<!-- Video Reasoning -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [arXiv] &nbsp; </font></strong><a href="https://arxiv.org/abs/2511.13853">Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark</a>
+  </p>
+  <p>
+    Xinxin Liu, Zhaopan Xu, <strong>Ming Li</strong>, Kai Wang, Yong Jae Lee, Yuzhang Shang
+  </p>
+</div>
+
 <!-- Self-Forcing++ -->
 <div class="paper-box-text">
   <p>
@@ -46,6 +56,7 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 <div class="paper-box-text">
   <p>
     <strong><font color="#9C2C23"> [NeurIPS'25] &nbsp; </font></strong><a href="https://neurips.cc/virtual/2025/poster/117815">CPO: Condition Preference Optimization for Controllable Image Generation</a>
+    <a href="https://github.com/ZonglinL/CPO"><img src="https://img.shields.io/github/stars/ZonglinL/CPO?style=social" alt="GitHub Stars" /></a>
   </p>
   <p>
     Zonglin Lyu, <strong>Ming Li</strong>, Xinxin Liu, Chen Chen
@@ -102,7 +113,8 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 
 # <font id="internships" ><font color="#000000"> Internships  </font>
-- *2024.05 - Now*, [TikTok, ByteDance](https://www.tiktok.com/), USA.
+- *2025.01 - Now*, [ByteDance Seed](https://seed.bytedance.com/en/), USA.
+- *2024.05 - *2024.12*, [TikTok, ByteDance](https://www.tiktok.com/), USA.
 - *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
 
 # <font id="honors" ><font color="#000000"> Honors </font>
