@@ -24,7 +24,8 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 <!-- Video Reasoning -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [arXiv] &nbsp; </font></strong><a href="https://arxiv.org/abs/2511.13853">Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark</a>
+    <strong><font color="#9C2C23"> [Preprint] &nbsp; </font></strong><a href="https://arxiv.org/abs/2511.13853">Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark</a>
+    <a href="https://github.com/L-CodingSpace/GVR"><img src="https://img.shields.io/github/stars/L-CodingSpace/GVR?style=social" alt="GitHub Stars" /></a>
   </p>
   <p>
     Xinxin Liu, Zhaopan Xu, <strong>Ming Li</strong>, Kai Wang, Yong Jae Lee, Yuzhang Shang
