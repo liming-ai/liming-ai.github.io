@@ -21,6 +21,16 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
 
 # <font id="publications" ><font color="#000000"> Selected Publications  </font>
 
+<!-- Seedance 1.5 -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2512.13507">Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model
+  </p>
+  <p>
+    ByteDance Seed Team
+  </p>
+</div>
+
 <!-- Video Reasoning -->
 <div class="paper-box-text">
   <p>
