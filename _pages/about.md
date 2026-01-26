@@ -31,6 +31,27 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
 </div>
 
+<!-- ViPO -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ICLR'26] &nbsp; </font></strong><a href="https://openreview.net/forum?id=x5zP3k64Nl">ViPO: Visual Preference Optimization at Scale</a>
+  </p>
+  <p>
+    <strong>Ming Li</strong>, Jie Wu, Justin Cui, Xiaojie Li, Rui Wang, Chen Chen
+  </p>
+</div>
+
+<!-- Self-Forcing++ -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] [ICLR'26] &nbsp; </font></strong><a href="https://arxiv.org/abs/2510.02283">Self-Forcing++: Towards Minute-Scale High-Quality Video Generation</a>
+    <a href="https://github.com/justincui03/Self-Forcing-Plus-Plus"><img src="https://img.shields.io/github/stars/justincui03/Self-Forcing-Plus-Plus?style=social" alt="GitHub Stars" /></a>
+  </p>
+  <p>
+    Justin Cui, Jie Wu, <strong>Ming Li</strong>, Tao Yang, Xiaojie Li, Rui Wang, Andrew Bai, Yuanhao Ban, Cho-Jui Hsieh
+  </p>
+</div>
+
 <!-- Video Reasoning -->
 <div class="paper-box-text">
   <p>
@@ -39,17 +60,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
   <p>
     Xinxin Liu, Zhaopan Xu, <strong>Ming Li</strong>, Kai Wang, Yong Jae Lee, Yuzhang Shang
-  </p>
-</div>
-
-<!-- Self-Forcing++ -->
-<div class="paper-box-text">
-  <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2510.02283">Self-Forcing++: Towards Minute-Scale High-Quality Video Generation</a>
-    <a href="https://github.com/justincui03/Self-Forcing-Plus-Plus"><img src="https://img.shields.io/github/stars/justincui03/Self-Forcing-Plus-Plus?style=social" alt="GitHub Stars" /></a>
-  </p>
-  <p>
-    Justin Cui, Jie Wu, <strong>Ming Li</strong>, Tao Yang, Xiaojie Li, Rui Wang, Andrew Bai, Yuanhao Ban, Cho-Jui Hsieh
   </p>
 </div>
 
@@ -63,17 +73,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
 </div>
 
-<!-- CPO -->
-<div class="paper-box-text">
-  <p>
-    <strong><font color="#9C2C23"> [NeurIPS'25] &nbsp; </font></strong><a href="https://neurips.cc/virtual/2025/poster/117815">CPO: Condition Preference Optimization for Controllable Image Generation</a>
-    <a href="https://github.com/ZonglinL/CPO"><img src="https://img.shields.io/github/stars/ZonglinL/CPO?style=social" alt="GitHub Stars" /></a>
-  </p>
-  <p>
-    Zonglin Lyu, <strong>Ming Li</strong>, Xinxin Liu, Chen Chen
-  </p>
-</div>
-
 <!-- SuperEdit -->
 <div class="paper-box-text">
   <p>
@@ -83,15 +82,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   <p>
     <strong>Ming Li</strong>, Xin Gu, Fan Chen, Xiaoying Xing, Longyin Wen, Chen Chen, Sijie Zhu
   </p>
-</div>
-
-<!-- Multi-Reward -->
-<div class="paper-box-text">
-  <p>
-    <strong><font color="#9C2C23"> [ICLR'25] &nbsp; </font></strong><a href="https://arxiv.org/abs/2411.04713">Multi-Reward as Condition for Instruction-based Image Editing.</a>
-    <a href="https://github.com/bytedance/Multi-Reward-Editing"><img src="https://img.shields.io/github/stars/bytedance/Multi-Reward-Editing?style=social" alt="GitHub Stars" /></a>
-  </p>
-  <p>Xin Gu, <strong>Ming Li</strong>, Libo Zhang, Fan Chen, Longyin Wen, Tiejian Luo, Sijie Zhu</p>
 </div>
 
 <!-- ControlNet++ -->
