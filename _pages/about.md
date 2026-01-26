@@ -62,6 +62,16 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
 </div>
 
+<!-- Semi-DPO -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ICLR'26] &nbsp; </font></strong><a href="https://openreview.net/forum?id=rRc04jyoAk">Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization</a>
+  </p>
+  <p>
+    Xinxin Liu, <strong>Ming Li</strong>, Zonglin Lyu, Yuzhang Shang, Chen Chen
+  </p>
+</div>
+
 <!-- Video Reasoning -->
 <div class="paper-box-text">
   <p>
