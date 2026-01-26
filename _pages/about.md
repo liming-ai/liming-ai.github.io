@@ -31,6 +31,27 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
 </div>
 
+<!-- Self-Forcing++ -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2510.02283">Self-Forcing++: Towards Minute-Scale High-Quality Video Generation</a>
+    <a href="https://github.com/justincui03/Self-Forcing-Plus-Plus"><img src="https://img.shields.io/github/stars/justincui03/Self-Forcing-Plus-Plus?style=social" alt="GitHub Stars" /></a>
+  </p>
+  <p>
+    Justin Cui, Jie Wu, <strong>Ming Li</strong>, Tao Yang, Xiaojie Li, Rui Wang, Andrew Bai, Yuanhao Ban, Cho-Jui Hsieh
+  </p>
+</div>
+
+<!-- RewardDance -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2509.08826">RewardDance: Reward Scaling in Visual Generation</a>
+  </p>
+  <p>
+    Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
+  </p>
+</div>
+
 <!-- ViPO -->
 <div class="paper-box-text">
   <p>
@@ -38,17 +59,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
   <p>
     <strong>Ming Li</strong>, Jie Wu, Justin Cui, Xiaojie Li, Rui Wang, Chen Chen
-  </p>
-</div>
-
-<!-- Self-Forcing++ -->
-<div class="paper-box-text">
-  <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] [ICLR'26] &nbsp; </font></strong><a href="https://arxiv.org/abs/2510.02283">Self-Forcing++: Towards Minute-Scale High-Quality Video Generation</a>
-    <a href="https://github.com/justincui03/Self-Forcing-Plus-Plus"><img src="https://img.shields.io/github/stars/justincui03/Self-Forcing-Plus-Plus?style=social" alt="GitHub Stars" /></a>
-  </p>
-  <p>
-    Justin Cui, Jie Wu, <strong>Ming Li</strong>, Tao Yang, Xiaojie Li, Rui Wang, Andrew Bai, Yuanhao Ban, Cho-Jui Hsieh
   </p>
 </div>
 
@@ -60,16 +70,6 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
   <p>
     Xinxin Liu, Zhaopan Xu, <strong>Ming Li</strong>, Kai Wang, Yong Jae Lee, Yuzhang Shang
-  </p>
-</div>
-
-<!-- RewardDance -->
-<div class="paper-box-text">
-  <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2509.08826">RewardDance: Reward Scaling in Visual Generation</a>
-  </p>
-  <p>
-    Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
   </p>
 </div>
 
