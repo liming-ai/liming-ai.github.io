@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font id="about-me" > <font color="#000000"> About Me </font>
-I am a second-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual and multimodal RL.
+I am a third-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual and multimodal RL.
 
 
 # <font id="publications" ><font color="#000000"> Selected Publications  </font>
@@ -80,6 +80,17 @@ I am a second-year PhD student at the University of Central Florida, with [Prof.
   </p>
   <p>
     Xinxin Liu, Zhaopan Xu, <strong>Ming Li</strong>, Kai Wang, Yong Jae Lee, Yuzhang Shang
+  </p>
+</div>
+
+<!-- CPO -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [NeurIPS'25] &nbsp; </font></strong><a href="https://neurips.cc/virtual/2025/poster/117815">CPO: Condition Preference Optimization for Controllable Image Generation</a>
+    <a href="https://github.com/ZonglinL/CPO"><img src="https://img.shields.io/github/stars/ZonglinL/CPO?style=social" alt="GitHub Stars" /></a>
+  </p>
+  <p>
+    Zonglin Lyu, <strong>Ming Li</strong>, Xinxin Liu, Chen Chen
   </p>
 </div>
 
