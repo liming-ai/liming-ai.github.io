@@ -19,7 +19,7 @@ redirect_from:
 I am a third-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual and multimodal RL.
 
 
-# <font id="tech_reports" ><font color="#000000"> Tech Reports  </font>
+# <font id="tech_reports" ><font color="#000000"> Technical Reports  </font>
 
 <!-- Seedance 1.5 -->
 <div class="paper-box-text">
@@ -138,7 +138,7 @@ I am a third-year PhD student at the University of Central Florida, with [Prof. 
 
 # <font id="internships" ><font color="#000000"> Internships  </font>
 - *2025.01 - Now*, [ByteDance Seed](https://seed.bytedance.com/en/), USA.
-- *2024.05 - *2024.12*, [TikTok, ByteDance](https://www.tiktok.com/), USA.
+- *2024.05 - 2024.12*, [TikTok, ByteDance](https://www.tiktok.com/), USA.
 - *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
 
 # <font id="honors" ><font color="#000000"> Honors </font>
