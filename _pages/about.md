@@ -19,7 +19,7 @@ redirect_from:
 I am a third-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual and multimodal RL.
 
 
-# <font id="publications" ><font color="#000000"> Selected Publications  </font>
+# <font id="tech_reports" ><font color="#000000"> Tech Reports  </font>
 
 <!-- Seedance 1.5 -->
 <div class="paper-box-text">
@@ -40,6 +40,8 @@ I am a third-year PhD student at the University of Central Florida, with [Prof. 
     Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
   </p>
 </div>
+
+# <font id="publications" ><font color="#000000"> Selected Publications  </font>
 
 <!-- ViPO -->
 <div class="paper-box-text">
