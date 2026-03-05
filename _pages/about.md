@@ -19,7 +19,16 @@ redirect_from:
 I am a third-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor. I am currently interning at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) to explore visual and multimodal RL.
 
 
-# <font id="tech_reports" ><font color="#000000"> Technical Reports  </font>
+# <font id="tech_reports" ><font color="#000000"> Industry Projects  </font>
+<!-- Seedance 2.0 -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ByteDance Seed Project] &nbsp; </font></strong><a href="https://seed.bytedance.com/en/seedance2_0">Seedance 2.0</a>
+  </p>
+  <p>
+    ByteDance Seed Team
+  </p>
+</div>
 
 <!-- Seedance 1.5 -->
 <div class="paper-box-text">
@@ -42,6 +51,17 @@ I am a third-year PhD student at the University of Central Florida, with [Prof. 
 </div>
 
 # <font id="publications" ><font color="#000000"> Selected Publications  </font>
+
+<!-- LoL -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [CVPR'26] &nbsp; </font></strong><a href="https://arxiv.org/abs/2601.16914">LoL: Longer than Longer, Scaling Video Generation to Hour</a>
+  </p>
+  <p>
+    Justin Cui, Jie Wu, <strong>Ming Li</strong>, Tao Yang, Xiaojie Li, Rui Wang, Andrew Bai, Yuanhao Ban, Cho-Jui Hsieh
+  </p>
+</div>
+
 
 <!-- ViPO -->
 <div class="paper-box-text">
