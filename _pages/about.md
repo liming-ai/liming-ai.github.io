@@ -23,7 +23,7 @@ I am a third-year PhD student at the University of Central Florida, with [Prof. 
 <!-- Seedance 2.0 -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed Project] &nbsp; </font></strong><a href="https://seed.bytedance.com/en/seedance2_0">Seedance 2.0</a>
+    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://seed.bytedance.com/en/seedance2_0">Seedance 2.0</a>
   </p>
   <p>
     ByteDance Seed Team
@@ -33,7 +33,7 @@ I am a third-year PhD student at the University of Central Florida, with [Prof. 
 <!-- Seedance 1.5 -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2512.13507">Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model</a>
+    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://arxiv.org/abs/2512.13507">Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model</a>
   </p>
   <p>
     ByteDance Seed Team
@@ -43,7 +43,7 @@ I am a third-year PhD student at the University of Central Florida, with [Prof. 
 <!-- RewardDance -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed Technical Report] &nbsp; </font></strong><a href="https://arxiv.org/abs/2509.08826">RewardDance: Reward Scaling in Visual Generation</a>
+    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://arxiv.org/abs/2509.08826">RewardDance: Reward Scaling in Visual Generation</a>
   </p>
   <p>
     Jie Wu, Yu Gao, Zilyu Ye, <strong>Ming Li</strong>, Liang Li, Hanzhong Guo, Jie Liu, Zeyue Xue, Xiaoxia Hou, Wei Liu, Yan Zeng, Weilin Huang
