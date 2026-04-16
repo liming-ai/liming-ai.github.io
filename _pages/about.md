@@ -23,7 +23,7 @@ I am a third-year PhD student at the University of Central Florida, with [Prof. 
 <!-- Seedance 2.0 -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://seed.bytedance.com/en/seedance2_0">Seedance 2.0</a>
+    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://arxiv.org/abs/2604.14148">Seedance 2.0</a>
   </p>
   <p>
     ByteDance Seed Team
