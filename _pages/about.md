@@ -18,7 +18,7 @@ redirect_from:
 # <font id="about-me" > <font color="#000000"> About Me </font>
 I am a third-year PhD student at the University of Central Florida, with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html) as my advisor.
 
-I am currently interning at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) on RL for visual generation, including the Seedance series ([1.5](https://arxiv.org/abs/2512.13507)/[2.0](https://arxiv.org/abs/2604.14148)/[2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream-5.0-Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other multimodal generation projects.
+I am currently interning at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN) on RL for visual generation, and am a core contributor to the Seedance series ([1.5](https://arxiv.org/abs/2512.13507)/[2.0](https://arxiv.org/abs/2604.14148)/[2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream 5.0 Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other multimodal generation projects.
 
 
 # <font id="tech_reports" ><font color="#000000"> Industry Projects  </font>
