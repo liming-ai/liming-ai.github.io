@@ -18,9 +18,9 @@ redirect_from:
 # <font id="about-me" > <font color="#000000"> About Me </font>
 I am a PhD candidate at the University of Central Florida, advised by [Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html), and an intern at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN).
 
-My work focuses on reinforcement learning for multimodal generation. I am a core contributor to the Seedance series ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream-5.0-Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other multimodal generation projects.
+My work focuses on reinforcement learning for multimodal generation. I am a core contributor to the **Seedance series** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream-5.0-Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other multimodal generation projects.
 
-<font color="#9C2C23">I am on the job market, looking for US-based post-training and RL roles in video generation (including long video and real-time generation), world models, and agentic RL.</font>
+<font color="#9C2C23"><strong>I am on the job market, looking for US-based positions in post-training or agentic RL for video generation and world models.</strong></font>
 
 # <font id="tech_reports" ><font color="#000000"> Industry Projects  </font>
 
