@@ -16,9 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font id="about-me" > <font color="#000000"> About Me </font>
-I am a PhD candidate at the University of Central Florida, advised by [Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html), and an intern at ByteDance-Seed with [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN).
+I am a Ph.D. candidate at the University of Central Florida and an intern at [ByteDance-Seed](https://seed.bytedance.com/en/), working on reinforcement learning (RL) for multimodal generation. My Ph.D. research is advised by [Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html), and my work at ByteDance-Seed is mentored by [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN).
 
-My work focuses on reinforcement learning for multimodal generation. I am a core contributor to the **Seedance series** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream-5.0-Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other multimodal generation projects.
+I am a core contributor (RL) to the **Seedance series** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream 5.0 Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other production-oriented multimodal generation projects, such as streaming long-video generation and world models.
+
+[**Curriculum Vitae (PDF)**](files/Ming_Li_CV.pdf)
 
 <font color="#9C2C23"><strong>I am on the job market, looking for US-based positions in post-training or agentic RL for video generation and world models.</strong></font>
 
@@ -30,17 +32,17 @@ My work focuses on reinforcement learning for multimodal generation. I am a core
     <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Seedance 2.5</a>
   </p>
   <p>
-    ByteDance Seed Team
+    ByteDance Seed Team (<strong>Ming Li</strong> as core contributor, RL)
   </p>
 </div>
 
 <!-- Seedream-5.0-Pro -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro">Seedream-5.0-Pro</a>
+    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro">Seedream 5.0 Pro</a>
   </p>
   <p>
-    ByteDance Seed Team
+    ByteDance Seed Team (<strong>Ming Li</strong> as core contributor, RL)
   </p>
 </div>
 
@@ -50,17 +52,17 @@ My work focuses on reinforcement learning for multimodal generation. I am a core
     <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://arxiv.org/abs/2604.14148">Seedance 2.0: Advancing Video Generation for World Complexity</a>
   </p>
   <p>
-    ByteDance Seed Team
+    Team Seedance (<strong>Ming Li</strong> as core contributor, RL)
   </p>
 </div>
 
 <!-- Seedance 1.5 -->
 <div class="paper-box-text">
   <p>
-    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://arxiv.org/abs/2512.13507">Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model</a>
+    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong><a href="https://arxiv.org/abs/2512.13507">Seedance 1.5 Pro: A Native Audio-Visual Joint Generation Foundation Model</a>
   </p>
   <p>
-    ByteDance Seed Team
+    Team Seedance (<strong>Ming Li</strong> as core contributor, RL)
   </p>
 </div>
 
@@ -151,6 +153,17 @@ My work focuses on reinforcement learning for multimodal generation. I am a core
   </p>
 </div>
 
+<!-- Multi-Reward -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ICLR'25] &nbsp; </font></strong><a href="https://arxiv.org/abs/2411.04713">Multi-Reward as Condition for Instruction-based Image Editing</a>
+    <a href="https://github.com/bytedance/Multi-Reward-Editing"><img src="https://img.shields.io/github/stars/bytedance/Multi-Reward-Editing?style=social" alt="GitHub Stars" /></a>
+  </p>
+  <p>
+    Xin Gu, <strong>Ming Li</strong>, Libo Zhang, Fan Chen, Longyin Wen, Tiejian Luo, Sijie Zhu
+  </p>
+</div>
+
 <!-- ControlNet++ -->
 <div class="paper-box-text">
   <p>
@@ -181,22 +194,21 @@ My work focuses on reinforcement learning for multimodal generation. I am a core
 
 
 # <font id="internships" ><font color="#000000"> Internships  </font>
-- *2025.01 - Now*, [ByteDance Seed](https://seed.bytedance.com/en/), USA.
-- *2024.05 - 2024.12*, [TikTok, ByteDance](https://www.tiktok.com/), USA.
-- *2022.01 - 2023.07*, [ByteDance](https://www.bytedance.com/en/), Shenzhen, China.
+- *2025.01 - Now*, [ByteDance-Seed](https://seed.bytedance.com/en/), USA. Mentors: [Jie Wu](https://wujie1010.github.io/), [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN).
+- *2024.05 - 2024.12*, [ByteDance Inc](https://www.bytedance.com/en/), USA. Mentor: [Sijie Zhu](https://jeff-zilence.github.io/).
+- *2022.01 - 2023.07*, [ByteDance Inc](https://www.bytedance.com/en/), Shenzhen, China. Mentor: [Jie Wu](https://wujie1010.github.io/).
 
 # <font id="honors" ><font color="#000000"> Honors </font>
 - [NeurIPS 2024 Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
 - 🏆 Champion of [CVPR 2023 Long-form Video Understanding and Generation Challenge (Track 3: Question-driven Video Understanding)](https://sites.google.com/view/loveucvpr23/track3).
 - 🏆 Champion of [CVPR 2022 AVA Accessibility Vision and Autonomy Challenge (Image Segmentation)](https://eval.ai/web/challenges/challenge-page/1690/leaderboard/4046).
+- Graduate Artificial Intelligence Initiative (Aii) Doctoral Fellowship, the University of Central Florida. 2023.
 - ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
 
-<!-- <h1 id="-educations--"><id="educations"> Educations  </font></h1>
-<ul>
-  <li><em>2023.09 - Now</em>, Ph.D., Computer Science, University of Central Florida.</li>
-  <li><em>2020.09 - 2023.06</em>, Master, Computer Science, Xiamen University.</li>
-  <li><em>2016.09 - 2020.06</em>, Bachelar, Software Engineering, Hainan University.</li>
-</ul> -->
+# <font id="educations" ><font color="#000000"> Education </font>
+- *2023.08 - 2026.12*, Ph.D., Computer Science, University of Central Florida, USA.
+- *2020.09 - 2023.06*, M.S., Computer Science and Technology, Xiamen University, China.
+- *2016.09 - 2020.06*, B.S., Software Engineering, Hainan University, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -1,15 +1,18 @@
 main:
-  # - title: "About Me"
-  #   url: "#about-me"
+  - title: "About Me"
+    url: "#about-me"
 
-  # - title: "Publications"
-  #   url: "#publications"
+  - title: "Industry Projects"
+    url: "#tech_reports"
 
-  # - title: "Preprints"
-  #   url: "#preprints"
+  - title: "Publications"
+    url: "#publications"
 
-  # - title: "Internships"
-  #   url: "#internships"
+  - title: "Internships"
+    url: "#internships"
 
-  # - title: "Honors"
-  #   url: "#honors"
+  - title: "Education"
+    url: "#educations"
+
+  - title: "Honors"
+    url: "#honors"
