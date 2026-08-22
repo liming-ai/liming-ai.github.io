@@ -20,8 +20,6 @@ I am a Ph.D. candidate at the University of Central Florida and an intern at [By
 
 I am a core contributor (RL) to the **Seedance series** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream 5.0 Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other production-oriented multimodal generation projects, such as streaming long-video generation and world models.
 
-[**Curriculum Vitae (PDF)**](files/Ming_Li_CV.pdf)
-
 <font color="#9C2C23"><strong>I am on the job market, looking for US-based positions in post-training or agentic RL for video generation and world models.</strong></font>
 
 # <font id="tech_reports" ><font color="#000000"> Industry Projects  </font>
