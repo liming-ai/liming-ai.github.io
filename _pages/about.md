@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font id="about-me" > <font color="#000000"> About Me </font>
-I am a Ph.D. candidate at the University of Central Florida and an intern at [ByteDance-Seed](https://seed.bytedance.com/en/), working on reinforcement learning (RL) for multimodal generation. My Ph.D. research is advised by [Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html), and my work at ByteDance-Seed is mentored by [Jie Wu](https://wujie1010.github.io/) and [Rui Wang](https://scholar.google.com/citations?user=nGki_EEAAAAJ&hl=zh-CN).
+I am a Ph.D. candidate at the University of Central Florida and a research intern at [ByteDance-Seed](https://seed.bytedance.com/en/), working on reinforcement learning (RL) for multimodal generation, advised by [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html).
 
-I am a core contributor (RL) to the **Seedance series** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream 5.0 Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other production-oriented multimodal generation projects, such as streaming long-video generation and world models.
+During my internship, I contributed to RL post-training for **Seedance** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream 5.0 Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other production-oriented projects, including streaming interactive long-video generation and world models.
 
 <font color="#9C2C23"><strong>I am on the job market, looking for US-based positions in post-training or agentic RL for video generation and world models.</strong></font>
 
@@ -204,7 +204,7 @@ I am a core contributor (RL) to the **Seedance series** ([1.5](https://arxiv.org
 - ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
 
 # <font id="educations" ><font color="#000000"> Education </font>
-- *2023.08 - 2026.12*, Ph.D., Computer Science, University of Central Florida, USA.
+- *2023.08 - 2027.05*, Ph.D., Computer Science, University of Central Florida, USA (can graduate as early as 2026.12).
 - *2020.09 - 2023.06*, M.S., Computer Science and Technology, Xiamen University, China.
 - *2016.09 - 2020.06*, B.S., Software Engineering, Hainan University, China.
 
