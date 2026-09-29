@@ -204,7 +204,7 @@ During my internship, I contributed to RL post-training for **Seedance** ([1.5](
 - ORCGS Doctoral Fellowship, the University of Central Florida. 2023.
 
 # <font id="educations" ><font color="#000000"> Education </font>
-- *2023.08 - 2027.05*, Ph.D., Computer Science, University of Central Florida, USA (can graduate as early as 2026.12).
+- *2023.08 - 2026.12*, Ph.D., Computer Science, University of Central Florida, USA.
 - *2020.09 - 2023.06*, M.S., Computer Science and Technology, Xiamen University, China.
 - *2016.09 - 2020.06*, B.S., Software Engineering, Hainan University, China.
 
