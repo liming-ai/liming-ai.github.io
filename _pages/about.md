@@ -16,13 +16,23 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # <font id="about-me" > <font color="#000000"> About Me </font>
-I am a Ph.D. candidate at the University of Central Florida and a research intern at [ByteDance-Seed](https://seed.bytedance.com/en/), working on reinforcement learning (RL) for multimodal generation, advised by [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html).
+I am a Ph.D. candidate at the University of Central Florida and an intern at [ByteDance-Seed](https://seed.bytedance.com/en/), working on reinforcement learning (RL) for multimodal generation, advised by [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/index.html).
 
-During my internship, I contributed to RL post-training for **Seedance** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream 5.0 Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and other production-oriented projects, including streaming interactive long-video generation and world models.
+During my internship, I contributed to RL post-training for the **Seedance series** ([1.5](https://arxiv.org/abs/2512.13507), [2.0](https://arxiv.org/abs/2604.14148), [2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)), [Seedream 5.0 Pro](https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro), and Seeworld (streaming interactive video world model).
 
 <font color="#9C2C23"><strong>I am on the job market, looking for US-based positions in post-training or agentic RL for video generation and world models.</strong></font>
 
 # <font id="tech_reports" ><font color="#000000"> Industry Projects  </font>
+
+<!-- Seeworld -->
+<div class="paper-box-text">
+  <p>
+    <strong><font color="#9C2C23"> [ByteDance Seed] &nbsp; </font></strong>Seeworld (work in progress)
+  </p>
+  <p>
+    Exploring reward design and RL training for a streaming interactive video world model, where videos are generated autoregressively and new references can arrive at any time.
+  </p>
+</div>
 
 <!-- Seedance 2.5 -->
 <div class="paper-box-text">
